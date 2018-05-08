@@ -17,3 +17,5 @@ String message = exchange.getIn().getBody(String.class);
                                 }
 
                                 exchange.getIn().setBody(tradesCsv.toString());
+1---BUY-2--15-MAY-2018
+2---SELL2--15-MAY-2018
